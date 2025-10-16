@@ -1,5 +1,5 @@
-# demo-app
+# Updated App
 
-Show a demo app
+Updated demo app with new feature
 
 MIT License
